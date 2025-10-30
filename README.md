@@ -101,9 +101,9 @@ User → React Frontend → Express.js API → MongoDB
 ```
 
 ---
-## 📸 Development Video
 
-🎥 **Project Demo Video:** [Watch on GitHub](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/development.mp4?raw=true)
+## 🎥 Project Demo
+[![View on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/-mohamed-ireef-s-23-_mernstack-fullstackdevelopment-webdevelopment-activity-7372464066516344832-OW1t?utm_source=share&utm_medium=member_desktop)
 
 ## 📸 Screenshots 
 
