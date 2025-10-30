@@ -103,6 +103,8 @@ User → React Frontend → Express.js API → MongoDB
 ---
 ## 📸 Development Video
 
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/development.mp4)
+
 ## 📸 Screenshots 
 
 ### 1. StockFlow Landing Page
