@@ -1,0 +1,28 @@
+# Node & dependency folders
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build and dist folders
+dist/
+build/
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# System / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+logs
+*.log
