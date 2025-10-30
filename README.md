@@ -105,7 +105,7 @@ User → React Frontend → Express.js API → MongoDB
 ## 📸 Screenshots (optional)
 
 
-
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/signup.png)
 ---
 
 ## 🧩 Folder Structure (example)
