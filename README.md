@@ -1,6 +1,6 @@
 # inventory-management-system
 
-# 🏭 StockFlow – Warehouse Inventory Management System
+# 🏭 StockFlow – MERN Inventory Management System
 
 StockFlow is a full-featured **MERN-based Inventory Management System** designed to simplify stock tracking, automate reordering, and visualize product locations through an **interactive warehouse map**.
 It helps businesses efficiently manage their inventory, avoid shortages, and maintain real-time visibility over warehouse operations.
@@ -101,11 +101,77 @@ User → React Frontend → Express.js API → MongoDB
 ```
 
 ---
+## 📸 Development Video
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots 
 
+### 1. StockFlow Landing Page
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/landing.png)
 
+### 2. StockFlow Admin Registration
 ![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/signup.png)
+
+### 3. StockFlow Company Registration
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/regsitration.png)
+
+### 4. Inventory Dashboard 
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/dashboard1.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/dashboard2.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/dashboard3.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/dashboard4.png)
+
+### 5. Inventory Page
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/inventory.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/inventory2.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/iventory-order-form1.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/iventory-order-form2.png)
+
+### 6. Orders Management Page
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/orders-management.png)
+
+### 7. Vendors Management
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/vendors-management.png)
+
+### 8. Inbound Shipments
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/receiving.png)
+
+### 9. Dispatch Page
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/dispatch.png)
+
+### 10. Returns Management Page
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/returns.png)
+
+### 11. Warehouse Map Page
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/warehouse-map1.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/warehouse-map2.png)
+
+### 12. Dashboard Reports
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/reports1.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/reports2.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/reports3.png)
+
+### 13. Support Page
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/supports.png)
+
+### 14. Settings Page 
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/settings1.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/settings2.png)
+
+### 15. Assistant Bot 
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/dashboard-chatbot.png)
+
+![Dashboard Screenshot](https://github.com/Mohamed-Irreef/inventory-management-system/blob/main/client/src/assets/screenshots/dashboard-chatbot2.png)
+
 ---
 
 ## 🧩 Folder Structure (example)
