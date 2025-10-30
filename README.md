@@ -1,6 +1,6 @@
 # inventory-management-system
 
-# 🏭 StockFlow – Intelligent Inventory Management System
+# 🏭 StockFlow – Warehouse Inventory Management System
 
 StockFlow is a full-featured **MERN-based Inventory Management System** designed to simplify stock tracking, automate reordering, and visualize product locations through an **interactive warehouse map**.
 It helps businesses efficiently manage their inventory, avoid shortages, and maintain real-time visibility over warehouse operations.
